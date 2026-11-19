@@ -1,0 +1,9 @@
+﻿opencv-python
+mediapipe
+numpy
+pillow
+scikit-learn
+pyttsx3
+pygame
+edge-tts
+deep-translator
